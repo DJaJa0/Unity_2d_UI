@@ -24,12 +24,15 @@ public class ShowTextScript : MonoBehaviour
     string text;
     public GameObject inputField;
     public GameObject displayField;
+    string[] words = {"Sveiki ", "Jauku dienu ", "Labrīt ", "Prieks Tevi redzēt " };
+    int randomNumb;
 
     //Šeit papildinājums ar Random
 
     public void getText()
     {
+        randomNumb = Random.Range(0, words.Length);
         text = inputField.GetComponent<Text>().text;
-        displayField.GetComponent<Text>().text = "Sveiks "+text.ToLower()+"!"; 
+        displayField.GetComponent<Text>().text = words[randomNumb]+text.ToLower()+"!"; 
     }
 }

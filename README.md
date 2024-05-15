@@ -5,11 +5,13 @@ Unity 2d projekts, kas demonstrē UI elementu lietojumu
 - [x] Projekta failu un mapju ieviešana
 - [x] InputField un Text, Button elementu lietojums
 - [x] Pirmā c# skripta izveide un piesaiste ainai
-- [ ] Image un Toggle elementu lietojums
-- [ ] Panel un Toggle Group elementu lietojums
-- [ ] DropDown un Slidder elementa lietojums
-- [ ] AudioSource un ScrollView elementu lietojums
+- [x] Image un Toggle elementu lietojums
+- [x] Panel un Toggle Group elementu lietojums
+- [x] DropDown un Slidder elementa lietojums
+- [x] AudioSource un ScrollView elementu lietojums
+- [x] DragAndDrop funkcionalitāte
 - [ ] Jaunas ainas ieviešana
 - [ ] Rigidbody un Collider komponenšu lietojums
+- [ ] Jiggly mājas
 - [ ] Sagatavošana Windows platformai
 

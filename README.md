@@ -12,6 +12,6 @@ Unity 2d projekts, kas demonstrē UI elementu lietojumu
 - [x] DragAndDrop funkcionalitāte
 - [x] Jaunas ainas ieviešana
 - [x] Rigidbody un Collider komponenšu lietojums
-- [ ] Jiggly mājas
-- [ ] Sagatavošana Windows platformai
+- [x] Jiggly mājas
+- [x] Sagatavošana Windows platformai
 
